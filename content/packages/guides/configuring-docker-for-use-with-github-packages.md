@@ -204,7 +204,7 @@ $ docker pull docker.<em>HOSTNAME/OWNER/REPOSITORY/IMAGE_NAME:TAG_NAME</em>
 **Note:** You must pull the image using `IMAGE_NAME:VERSION` and not using `IMAGE_NAME:SHA`.
 
 {% endnote %}
-
+##
 ### Further reading
 
 - "[Deleting a package](/packages/publishing-and-managing-packages/deleting-a-package/)"
